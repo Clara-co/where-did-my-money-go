@@ -105,7 +105,8 @@ def yoy_line(yoy: pd.DataFrame, target: float, path: Path) -> None:
     fig, ax = plt.subplots(figsize=(7.5, 3.8))
     ax.plot(yoy["year"], yoy["yoy_pct"], color=BLUE, linewidth=2, marker="o", markersize=5)
     ax.axhline(target, color=INK_2, linewidth=1, linestyle="--")
-    ax.text(yoy["year"].min(), target + 0.15, f"Fed target {target:g}%", color=INK_2, fontsize=9)
+    ax.text(yoy["year"].max(), target - 0.15, f"Fed target {target:g}%", color=INK_2, fontsize=9,
+            ha="right", va="top")
     peak = yoy.loc[yoy["yoy_pct"].idxmax()]
     ax.annotate(f"{peak['yoy_pct']:.1f}% in {int(peak['year'])}", (peak["year"], peak["yoy_pct"]),
                 xytext=(8, 0), textcoords="offset points", color=INK, va="center")

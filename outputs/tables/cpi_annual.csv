@@ -1,0 +1,78 @@
+category,year,index,months
+All items,2015,237.017,12
+All items,2016,240.007,12
+All items,2017,245.12,12
+All items,2018,251.107,12
+All items,2019,255.657,12
+All items,2020,258.811,12
+All items,2021,270.97,12
+All items,2022,292.655,12
+All items,2023,304.702,12
+All items,2024,313.689,12
+All items,2025,321.943,11
+Food,2015,247.235,12
+Food,2016,247.931,12
+Food,2017,250.065,12
+Food,2018,253.558,12
+Food,2019,258.316,12
+Food,2020,267.219,12
+Food,2021,277.756,12
+Food,2022,305.388,12
+Food,2023,322.965,12
+Food,2024,330.263,12
+Food,2025,339.512,11
+Medical care,2015,446.752,12
+Medical care,2016,463.675,12
+Medical care,2017,475.322,12
+Medical care,2018,484.707,12
+Medical care,2019,498.413,12
+Medical care,2020,518.876,12
+Medical care,2021,525.276,12
+Medical care,2022,546.554,12
+Medical care,2023,549.084,12
+Medical care,2024,563.841,12
+Medical care,2025,580.102,11
+Motor fuel,2015,213.062,12
+Motor fuel,2016,188.389,12
+Motor fuel,2017,212.721,12
+Motor fuel,2018,241.861,12
+Motor fuel,2019,233.234,12
+Motor fuel,2020,195.242,12
+Motor fuel,2021,265.083,12
+Motor fuel,2022,350.261,12
+Motor fuel,2023,313.257,12
+Motor fuel,2024,296.674,12
+Motor fuel,2025,280.007,11
+Recreation,2015,115.941,12
+Recreation,2016,116.984,12
+Recreation,2017,118.504,12
+Recreation,2018,119.091,12
+Recreation,2019,120.615,12
+Recreation,2020,122.242,12
+Recreation,2021,125.18,12
+Recreation,2022,130.846,12
+Recreation,2023,136.105,12
+Recreation,2024,138.158,12
+Recreation,2025,141.085,11
+Shelter,2015,278.803,12
+Shelter,2016,288.23,12
+Shelter,2017,297.803,12
+Shelter,2018,307.663,12
+Shelter,2019,318.053,12
+Shelter,2020,325.886,12
+Shelter,2021,334.575,12
+Shelter,2022,354.235,12
+Shelter,2023,380.643,12
+Shelter,2024,400.561,12
+Shelter,2025,415.164,11
+Transportation,2015,199.067,12
+Transportation,2016,194.894,12
+Transportation,2017,201.565,12
+Transportation,2018,210.664,12
+Transportation,2019,210.068,12
+Transportation,2020,201.334,12
+Transportation,2021,230.657,12
+Transportation,2022,266.33,12
+Transportation,2023,266.978,12
+Transportation,2024,270.685,12
+Transportation,2025,272.112,11

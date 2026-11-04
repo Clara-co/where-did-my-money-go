@@ -4,7 +4,16 @@ U.S. inflation by spending category, 2015 to 2025, and the cost of living across
 
 This is the reproducible version of my [data storytelling project](https://clara-co.github.io/projects/where-did-my-money-go-report.pdf). The original was built from Excel downloads. This repo pulls the same government series directly from the BLS and BEA APIs, caches the raw responses, and rebuilds every number and chart with one command.
 
-**Results:** `outputs/RESULTS.md`, created when you run the pipeline (see [Run it](#run-it)). The analysis writes that page itself, so every figure on it comes from the data in `data/raw/`.
+**Results:** [`outputs/RESULTS.md`](outputs/RESULTS.md), which the analysis writes itself, so every figure on it comes from the data in `data/raw/`.
+
+**Headlines:**
+- A 2015 dollar buys **67¢ of shelter** in 2025, the steepest loss of any category. Shelter prices rose 48.9%, against 35.8% for all items.
+- Inflation **peaked at 8.0% in 2022** and was above the Fed's 2% target in 7 of the 10 years.
+- In 2024, California (110.7), Hawaii and DC were the most expensive places to live, and Arkansas (86.9), Mississippi and Iowa the cheapest. $100 goes about **25% further** in Arkansas than in California.
+
+![How far a 2015 dollar goes](outputs/figures/purchasing_power.png)
+
+![Cost of living by state](outputs/figures/rpp_tile_map.png)
 
 ## Questions
 
@@ -34,7 +43,7 @@ src/money/
   analysis.py   parse responses, annual averages with month counts, purchasing power, YoY, RPP summary
   charts.py     matplotlib charts, including a 51-state tile-grid map
   __main__.py   run the analysis, write outputs/ and the generated RESULTS.md
-tests/          7 tests on hand-built API responses (parsing, missing months, the math, a full run)
+tests/          8 tests on hand-built API responses (parsing, missing months, the math, key scrubbing, a full run)
 ```
 
 ## Run it

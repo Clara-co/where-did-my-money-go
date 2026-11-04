@@ -1,0 +1,63 @@
+{
+  "cpi_years": [
+    2015,
+    2025
+  ],
+  "cents_per_2015_dollar": {
+    "Shelter": 67.2,
+    "Food": 72.8,
+    "Transportation": 73.2,
+    "All items": 73.6,
+    "Motor fuel": 76.1,
+    "Medical care": 77.0,
+    "Recreation": 82.2
+  },
+  "cost_in_end_year_of_100_base_dollars": 135.83,
+  "peak_inflation": {
+    "year": 2022.0,
+    "yoy_pct": 8.002799820521167
+  },
+  "years_above_fed_target": [
+    2017,
+    2018,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "incomplete_years": [
+    2025
+  ],
+  "rpp_year": 2024,
+  "most_expensive": [
+    [
+      "California",
+      110.72
+    ],
+    [
+      "Hawaii",
+      109.951
+    ],
+    [
+      "District of Columbia",
+      109.901
+    ]
+  ],
+  "least_expensive": [
+    [
+      "Iowa",
+      87.762
+    ],
+    [
+      "Mississippi",
+      86.953
+    ],
+    [
+      "Arkansas",
+      86.937
+    ]
+  ],
+  "rpp_spread_pts": 23.8,
+  "n_states": 51
+}
