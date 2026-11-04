@@ -9,7 +9,7 @@ This is the reproducible version of my [data storytelling project](https://clara
 **Headlines:**
 - A 2015 dollar buys **67¢ of shelter** in 2025, the steepest loss of any category. Shelter prices rose 48.9%, against 35.8% for all items.
 - Inflation **peaked at 8.0% in 2022** and was above the Fed's 2% target in 7 of the 10 years.
-- In 2024, California (110.7), Hawaii and DC were the most expensive places to live, and Arkansas (86.9), Mississippi and Iowa the cheapest. $100 goes about **25% further** in Arkansas than in California.
+- In 2024, California (110.7), Hawaii and DC were the most expensive places to live, and Arkansas (86.9), Mississippi and Iowa the cheapest. $100 goes about **27% further** in Arkansas than in California.
 
 ![How far a 2015 dollar goes](outputs/figures/purchasing_power.png)
 
