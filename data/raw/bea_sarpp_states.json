@@ -1,0 +1,5204 @@
+{
+ "BEAAPI": {
+  "Results": {
+   "Statistic": "RPPs: All items",
+   "UnitOfMeasure": "Index",
+   "PublicTable": "SARPP Regional price parities by state",
+   "UTCProductionTime": "2026-11-04T22:25:31.217",
+   "NoteRef": " ",
+   "Dimensions": [
+    {
+     "Name": "Code",
+     "DataType": "string",
+     "IsValue": "0"
+    },
+    {
+     "Name": "GeoFips",
+     "DataType": "string",
+     "IsValue": "0"
+    },
+    {
+     "Name": "GeoName",
+     "DataType": "string",
+     "IsValue": "0"
+    },
+    {
+     "Name": "TimePeriod",
+     "DataType": "string",
+     "IsValue": "0"
+    },
+    {
+     "Name": "DataValue",
+     "DataType": "numeric",
+     "IsValue": "1"
+    },
+    {
+     "Name": "CL_UNIT",
+     "DataType": "string",
+     "IsValue": "0"
+    },
+    {
+     "Name": "UNIT_MULT",
+     "DataType": "numeric",
+     "IsValue": "0"
+    }
+   ],
+   "Data": [
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "00000",
+     "GeoName": "United States",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "100.000"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "00000",
+     "GeoName": "United States",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "100.000"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "00000",
+     "GeoName": "United States",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "100.000"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "00000",
+     "GeoName": "United States",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "100.000"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "00000",
+     "GeoName": "United States",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "100.000"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "00000",
+     "GeoName": "United States",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "100.000"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "00000",
+     "GeoName": "United States",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "100.000"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "00000",
+     "GeoName": "United States",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "100.000"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "00000",
+     "GeoName": "United States",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "100.000"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "00000",
+     "GeoName": "United States",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "100.000"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "00000",
+     "GeoName": "United States",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "100.000"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "01000",
+     "GeoName": "Alabama",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "90.175"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "01000",
+     "GeoName": "Alabama",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.741"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "01000",
+     "GeoName": "Alabama",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "90.609"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "01000",
+     "GeoName": "Alabama",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "90.065"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "01000",
+     "GeoName": "Alabama",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "87.378"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "01000",
+     "GeoName": "Alabama",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "88.303"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "01000",
+     "GeoName": "Alabama",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "87.569"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "01000",
+     "GeoName": "Alabama",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "88.062"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "01000",
+     "GeoName": "Alabama",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "88.021"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "01000",
+     "GeoName": "Alabama",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.097"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "01000",
+     "GeoName": "Alabama",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "88.823"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "02000",
+     "GeoName": "Alaska",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "102.386"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "02000",
+     "GeoName": "Alaska",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "103.287"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "02000",
+     "GeoName": "Alaska",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "104.073"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "02000",
+     "GeoName": "Alaska",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "104.833"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "02000",
+     "GeoName": "Alaska",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "104.565"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "02000",
+     "GeoName": "Alaska",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "103.041"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "02000",
+     "GeoName": "Alaska",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "101.339"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "02000",
+     "GeoName": "Alaska",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "104.907"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "02000",
+     "GeoName": "Alaska",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "102.101"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "02000",
+     "GeoName": "Alaska",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "103.297"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "02000",
+     "GeoName": "Alaska",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "102.359"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "04000",
+     "GeoName": "Arizona",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.944"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "04000",
+     "GeoName": "Arizona",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.865"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "04000",
+     "GeoName": "Arizona",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "98.622"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "04000",
+     "GeoName": "Arizona",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.915"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "04000",
+     "GeoName": "Arizona",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.381"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "04000",
+     "GeoName": "Arizona",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.779"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "04000",
+     "GeoName": "Arizona",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "99.203"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "04000",
+     "GeoName": "Arizona",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "96.600"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "04000",
+     "GeoName": "Arizona",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "99.992"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "04000",
+     "GeoName": "Arizona",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "100.742"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "04000",
+     "GeoName": "Arizona",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "100.677"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "05000",
+     "GeoName": "Arkansas",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.395"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "05000",
+     "GeoName": "Arkansas",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.013"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "05000",
+     "GeoName": "Arkansas",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.298"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "05000",
+     "GeoName": "Arkansas",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "88.561"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "05000",
+     "GeoName": "Arkansas",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "87.144"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "05000",
+     "GeoName": "Arkansas",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "87.744"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "05000",
+     "GeoName": "Arkansas",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "88.165"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "05000",
+     "GeoName": "Arkansas",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "88.902"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "05000",
+     "GeoName": "Arkansas",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "86.913"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "05000",
+     "GeoName": "Arkansas",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "86.810"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "05000",
+     "GeoName": "Arkansas",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "86.937"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "06000",
+     "GeoName": "California",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "109.926"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "06000",
+     "GeoName": "California",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "110.685"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "06000",
+     "GeoName": "California",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "109.956"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "06000",
+     "GeoName": "California",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "110.998"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "06000",
+     "GeoName": "California",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "111.882"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "06000",
+     "GeoName": "California",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "111.134"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "06000",
+     "GeoName": "California",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "111.944"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "06000",
+     "GeoName": "California",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "111.918"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "06000",
+     "GeoName": "California",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "112.591"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "06000",
+     "GeoName": "California",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "112.195"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "06000",
+     "GeoName": "California",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "110.720"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "08000",
+     "GeoName": "Colorado",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "103.068"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "08000",
+     "GeoName": "Colorado",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "103.048"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "08000",
+     "GeoName": "Colorado",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "102.716"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "08000",
+     "GeoName": "Colorado",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "102.946"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "08000",
+     "GeoName": "Colorado",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "100.290"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "08000",
+     "GeoName": "Colorado",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "102.491"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "08000",
+     "GeoName": "Colorado",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "103.774"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "08000",
+     "GeoName": "Colorado",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "102.765"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "08000",
+     "GeoName": "Colorado",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "102.260"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "08000",
+     "GeoName": "Colorado",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "101.856"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "08000",
+     "GeoName": "Colorado",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "103.052"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "09000",
+     "GeoName": "Connecticut",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "107.015"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "09000",
+     "GeoName": "Connecticut",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "107.536"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "09000",
+     "GeoName": "Connecticut",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "107.477"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "09000",
+     "GeoName": "Connecticut",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "107.228"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "09000",
+     "GeoName": "Connecticut",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "104.015"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "09000",
+     "GeoName": "Connecticut",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "103.915"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "09000",
+     "GeoName": "Connecticut",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "105.119"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "09000",
+     "GeoName": "Connecticut",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "102.886"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "09000",
+     "GeoName": "Connecticut",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "106.362"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "09000",
+     "GeoName": "Connecticut",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "104.201"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "09000",
+     "GeoName": "Connecticut",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "103.610"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "10000",
+     "GeoName": "Delaware",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "99.708"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "10000",
+     "GeoName": "Delaware",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.913"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "10000",
+     "GeoName": "Delaware",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "98.478"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "10000",
+     "GeoName": "Delaware",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "98.499"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "10000",
+     "GeoName": "Delaware",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "99.252"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "10000",
+     "GeoName": "Delaware",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "98.824"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "10000",
+     "GeoName": "Delaware",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "96.791"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "10000",
+     "GeoName": "Delaware",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.425"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "10000",
+     "GeoName": "Delaware",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "98.007"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "10000",
+     "GeoName": "Delaware",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "98.759"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "10000",
+     "GeoName": "Delaware",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "99.808"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "11000",
+     "GeoName": "District of Columbia",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "114.242"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "11000",
+     "GeoName": "District of Columbia",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "113.321"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "11000",
+     "GeoName": "District of Columbia",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "112.415"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "11000",
+     "GeoName": "District of Columbia",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "110.146"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "11000",
+     "GeoName": "District of Columbia",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "111.317"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "11000",
+     "GeoName": "District of Columbia",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "109.228"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "11000",
+     "GeoName": "District of Columbia",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "110.881"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "11000",
+     "GeoName": "District of Columbia",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "111.572"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "11000",
+     "GeoName": "District of Columbia",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "112.594"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "11000",
+     "GeoName": "District of Columbia",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "110.713"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "11000",
+     "GeoName": "District of Columbia",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "109.901"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "12000",
+     "GeoName": "Florida",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "100.894"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "12000",
+     "GeoName": "Florida",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "101.290"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "12000",
+     "GeoName": "Florida",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "101.087"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "12000",
+     "GeoName": "Florida",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "100.871"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "12000",
+     "GeoName": "Florida",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "100.318"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "12000",
+     "GeoName": "Florida",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "99.645"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "12000",
+     "GeoName": "Florida",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "100.604"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "12000",
+     "GeoName": "Florida",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "101.389"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "12000",
+     "GeoName": "Florida",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "102.284"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "12000",
+     "GeoName": "Florida",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "103.636"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "12000",
+     "GeoName": "Florida",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "103.414"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "13000",
+     "GeoName": "Georgia",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "94.962"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "13000",
+     "GeoName": "Georgia",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "94.717"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "13000",
+     "GeoName": "Georgia",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "94.991"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "13000",
+     "GeoName": "Georgia",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "95.275"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "13000",
+     "GeoName": "Georgia",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "94.832"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "13000",
+     "GeoName": "Georgia",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "94.392"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "13000",
+     "GeoName": "Georgia",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "94.478"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "13000",
+     "GeoName": "Georgia",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "95.713"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "13000",
+     "GeoName": "Georgia",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "95.678"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "13000",
+     "GeoName": "Georgia",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "96.494"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "13000",
+     "GeoName": "Georgia",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "96.293"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "15000",
+     "GeoName": "Hawaii",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "110.596"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "15000",
+     "GeoName": "Hawaii",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "111.504"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "15000",
+     "GeoName": "Hawaii",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "109.901"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "15000",
+     "GeoName": "Hawaii",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "110.466"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "15000",
+     "GeoName": "Hawaii",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "110.929"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "15000",
+     "GeoName": "Hawaii",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "111.767"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "15000",
+     "GeoName": "Hawaii",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "113.279"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "15000",
+     "GeoName": "Hawaii",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "112.564"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "15000",
+     "GeoName": "Hawaii",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "111.148"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "15000",
+     "GeoName": "Hawaii",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "109.703"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "15000",
+     "GeoName": "Hawaii",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "109.951"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "16000",
+     "GeoName": "Idaho",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.691"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "16000",
+     "GeoName": "Idaho",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "94.281"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "16000",
+     "GeoName": "Idaho",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.998"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "16000",
+     "GeoName": "Idaho",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "94.518"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "16000",
+     "GeoName": "Idaho",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.736"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "16000",
+     "GeoName": "Idaho",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.437"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "16000",
+     "GeoName": "Idaho",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.023"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "16000",
+     "GeoName": "Idaho",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.563"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "16000",
+     "GeoName": "Idaho",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.802"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "16000",
+     "GeoName": "Idaho",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.236"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "16000",
+     "GeoName": "Idaho",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "95.494"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "17000",
+     "GeoName": "Illinois",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "99.697"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "17000",
+     "GeoName": "Illinois",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "98.903"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "17000",
+     "GeoName": "Illinois",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "99.498"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "17000",
+     "GeoName": "Illinois",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "100.254"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "17000",
+     "GeoName": "Illinois",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "100.416"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "17000",
+     "GeoName": "Illinois",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "99.453"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "17000",
+     "GeoName": "Illinois",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "100.315"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "17000",
+     "GeoName": "Illinois",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "101.321"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "17000",
+     "GeoName": "Illinois",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "101.205"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "17000",
+     "GeoName": "Illinois",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "98.752"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "17000",
+     "GeoName": "Illinois",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "99.958"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "18000",
+     "GeoName": "Indiana",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.638"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "18000",
+     "GeoName": "Indiana",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.415"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "18000",
+     "GeoName": "Indiana",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.346"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "18000",
+     "GeoName": "Indiana",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "90.875"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "18000",
+     "GeoName": "Indiana",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.802"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "18000",
+     "GeoName": "Indiana",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.829"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "18000",
+     "GeoName": "Indiana",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.763"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "18000",
+     "GeoName": "Indiana",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.579"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "18000",
+     "GeoName": "Indiana",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.875"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "18000",
+     "GeoName": "Indiana",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.097"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "18000",
+     "GeoName": "Indiana",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.329"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "19000",
+     "GeoName": "Iowa",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "90.970"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "19000",
+     "GeoName": "Iowa",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.528"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "19000",
+     "GeoName": "Iowa",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.439"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "19000",
+     "GeoName": "Iowa",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.213"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "19000",
+     "GeoName": "Iowa",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.797"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "19000",
+     "GeoName": "Iowa",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.804"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "19000",
+     "GeoName": "Iowa",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "90.610"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "19000",
+     "GeoName": "Iowa",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.770"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "19000",
+     "GeoName": "Iowa",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "88.351"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "19000",
+     "GeoName": "Iowa",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "88.769"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "19000",
+     "GeoName": "Iowa",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "87.762"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "20000",
+     "GeoName": "Kansas",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.138"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "20000",
+     "GeoName": "Kansas",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.814"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "20000",
+     "GeoName": "Kansas",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.059"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "20000",
+     "GeoName": "Kansas",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.555"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "20000",
+     "GeoName": "Kansas",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.436"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "20000",
+     "GeoName": "Kansas",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.734"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "20000",
+     "GeoName": "Kansas",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.251"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "20000",
+     "GeoName": "Kansas",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.270"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "20000",
+     "GeoName": "Kansas",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.609"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "20000",
+     "GeoName": "Kansas",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.908"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "20000",
+     "GeoName": "Kansas",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "90.068"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "21000",
+     "GeoName": "Kentucky",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.063"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "21000",
+     "GeoName": "Kentucky",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "90.733"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "21000",
+     "GeoName": "Kentucky",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "90.676"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "21000",
+     "GeoName": "Kentucky",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.985"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "21000",
+     "GeoName": "Kentucky",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.071"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "21000",
+     "GeoName": "Kentucky",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.597"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "21000",
+     "GeoName": "Kentucky",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.078"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "21000",
+     "GeoName": "Kentucky",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.246"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "21000",
+     "GeoName": "Kentucky",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.402"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "21000",
+     "GeoName": "Kentucky",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.890"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "21000",
+     "GeoName": "Kentucky",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "90.159"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "22000",
+     "GeoName": "Louisiana",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.401"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "22000",
+     "GeoName": "Louisiana",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.834"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "22000",
+     "GeoName": "Louisiana",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.600"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "22000",
+     "GeoName": "Louisiana",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.364"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "22000",
+     "GeoName": "Louisiana",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "90.755"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "22000",
+     "GeoName": "Louisiana",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.159"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "22000",
+     "GeoName": "Louisiana",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.141"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "22000",
+     "GeoName": "Louisiana",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.373"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "22000",
+     "GeoName": "Louisiana",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "90.489"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "22000",
+     "GeoName": "Louisiana",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "88.700"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "22000",
+     "GeoName": "Louisiana",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "88.207"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "23000",
+     "GeoName": "Maine",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.521"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "23000",
+     "GeoName": "Maine",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "95.879"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "23000",
+     "GeoName": "Maine",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.216"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "23000",
+     "GeoName": "Maine",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.559"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "23000",
+     "GeoName": "Maine",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.649"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "23000",
+     "GeoName": "Maine",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "95.607"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "23000",
+     "GeoName": "Maine",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.888"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "23000",
+     "GeoName": "Maine",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.343"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "23000",
+     "GeoName": "Maine",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "100.746"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "23000",
+     "GeoName": "Maine",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.964"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "23000",
+     "GeoName": "Maine",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.050"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "24000",
+     "GeoName": "Maryland",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "107.879"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "24000",
+     "GeoName": "Maryland",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "107.913"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "24000",
+     "GeoName": "Maryland",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "107.222"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "24000",
+     "GeoName": "Maryland",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "106.750"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "24000",
+     "GeoName": "Maryland",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "106.311"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "24000",
+     "GeoName": "Maryland",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "105.087"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "24000",
+     "GeoName": "Maryland",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "106.396"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "24000",
+     "GeoName": "Maryland",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "106.099"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "24000",
+     "GeoName": "Maryland",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "104.890"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "24000",
+     "GeoName": "Maryland",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "104.602"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "24000",
+     "GeoName": "Maryland",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "104.959"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "25000",
+     "GeoName": "Massachusetts",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "104.533"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "25000",
+     "GeoName": "Massachusetts",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "105.086"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "25000",
+     "GeoName": "Massachusetts",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "108.161"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "25000",
+     "GeoName": "Massachusetts",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "107.406"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "25000",
+     "GeoName": "Massachusetts",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "107.422"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "25000",
+     "GeoName": "Massachusetts",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "107.151"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "25000",
+     "GeoName": "Massachusetts",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "109.101"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "25000",
+     "GeoName": "Massachusetts",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "106.698"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "25000",
+     "GeoName": "Massachusetts",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "109.431"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "25000",
+     "GeoName": "Massachusetts",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "107.675"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "25000",
+     "GeoName": "Massachusetts",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "105.757"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "26000",
+     "GeoName": "Michigan",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "95.473"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "26000",
+     "GeoName": "Michigan",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.713"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "26000",
+     "GeoName": "Michigan",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.637"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "26000",
+     "GeoName": "Michigan",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.727"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "26000",
+     "GeoName": "Michigan",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "94.518"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "26000",
+     "GeoName": "Michigan",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "95.359"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "26000",
+     "GeoName": "Michigan",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "94.431"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "26000",
+     "GeoName": "Michigan",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "94.281"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "26000",
+     "GeoName": "Michigan",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.589"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "26000",
+     "GeoName": "Michigan",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "94.296"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "26000",
+     "GeoName": "Michigan",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "96.217"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "27000",
+     "GeoName": "Minnesota",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "98.307"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "27000",
+     "GeoName": "Minnesota",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.678"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "27000",
+     "GeoName": "Minnesota",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.192"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "27000",
+     "GeoName": "Minnesota",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "96.739"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "27000",
+     "GeoName": "Minnesota",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "99.599"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "27000",
+     "GeoName": "Minnesota",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "98.759"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "27000",
+     "GeoName": "Minnesota",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.766"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "27000",
+     "GeoName": "Minnesota",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "98.396"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "27000",
+     "GeoName": "Minnesota",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.457"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "27000",
+     "GeoName": "Minnesota",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "98.302"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "27000",
+     "GeoName": "Minnesota",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "98.621"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "28000",
+     "GeoName": "Mississippi",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "88.960"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "28000",
+     "GeoName": "Mississippi",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "88.264"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "28000",
+     "GeoName": "Mississippi",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "88.489"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "28000",
+     "GeoName": "Mississippi",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "87.737"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "28000",
+     "GeoName": "Mississippi",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "86.157"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "28000",
+     "GeoName": "Mississippi",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "86.527"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "28000",
+     "GeoName": "Mississippi",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "85.583"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "28000",
+     "GeoName": "Mississippi",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "86.222"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "28000",
+     "GeoName": "Mississippi",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "87.336"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "28000",
+     "GeoName": "Mississippi",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "86.792"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "28000",
+     "GeoName": "Mississippi",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "86.953"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "29000",
+     "GeoName": "Missouri",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.351"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "29000",
+     "GeoName": "Missouri",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.262"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "29000",
+     "GeoName": "Missouri",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.676"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "29000",
+     "GeoName": "Missouri",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.735"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "29000",
+     "GeoName": "Missouri",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.806"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "29000",
+     "GeoName": "Missouri",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.520"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "29000",
+     "GeoName": "Missouri",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.162"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "29000",
+     "GeoName": "Missouri",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.012"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "29000",
+     "GeoName": "Missouri",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "90.991"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "29000",
+     "GeoName": "Missouri",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.104"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "29000",
+     "GeoName": "Missouri",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "90.817"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "30000",
+     "GeoName": "Montana",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "95.152"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "30000",
+     "GeoName": "Montana",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "94.974"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "30000",
+     "GeoName": "Montana",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.862"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "30000",
+     "GeoName": "Montana",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "94.202"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "30000",
+     "GeoName": "Montana",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.401"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "30000",
+     "GeoName": "Montana",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "94.240"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "30000",
+     "GeoName": "Montana",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.972"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "30000",
+     "GeoName": "Montana",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.328"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "30000",
+     "GeoName": "Montana",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "90.179"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "30000",
+     "GeoName": "Montana",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.014"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "30000",
+     "GeoName": "Montana",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "94.645"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "31000",
+     "GeoName": "Nebraska",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.757"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "31000",
+     "GeoName": "Nebraska",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.166"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "31000",
+     "GeoName": "Nebraska",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "90.767"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "31000",
+     "GeoName": "Nebraska",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.807"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "31000",
+     "GeoName": "Nebraska",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.838"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "31000",
+     "GeoName": "Nebraska",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.531"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "31000",
+     "GeoName": "Nebraska",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.808"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "31000",
+     "GeoName": "Nebraska",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.956"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "31000",
+     "GeoName": "Nebraska",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.844"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "31000",
+     "GeoName": "Nebraska",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "90.288"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "31000",
+     "GeoName": "Nebraska",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "90.103"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "32000",
+     "GeoName": "Nevada",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "99.184"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "32000",
+     "GeoName": "Nevada",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "98.592"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "32000",
+     "GeoName": "Nevada",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.191"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "32000",
+     "GeoName": "Nevada",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "99.854"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "32000",
+     "GeoName": "Nevada",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "96.226"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "32000",
+     "GeoName": "Nevada",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "98.838"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "32000",
+     "GeoName": "Nevada",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.191"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "32000",
+     "GeoName": "Nevada",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "95.356"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "32000",
+     "GeoName": "Nevada",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "96.339"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "32000",
+     "GeoName": "Nevada",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.861"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "32000",
+     "GeoName": "Nevada",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "99.979"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "33000",
+     "GeoName": "New Hampshire",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "102.091"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "33000",
+     "GeoName": "New Hampshire",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "103.980"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "33000",
+     "GeoName": "New Hampshire",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "105.096"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "33000",
+     "GeoName": "New Hampshire",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "105.780"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "33000",
+     "GeoName": "New Hampshire",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "103.549"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "33000",
+     "GeoName": "New Hampshire",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "104.001"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "33000",
+     "GeoName": "New Hampshire",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "105.269"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "33000",
+     "GeoName": "New Hampshire",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "102.568"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "33000",
+     "GeoName": "New Hampshire",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "107.847"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "33000",
+     "GeoName": "New Hampshire",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "105.393"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "33000",
+     "GeoName": "New Hampshire",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "104.165"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "34000",
+     "GeoName": "New Jersey",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "109.032"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "34000",
+     "GeoName": "New Jersey",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "108.973"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "34000",
+     "GeoName": "New Jersey",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "109.059"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "34000",
+     "GeoName": "New Jersey",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "109.298"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "34000",
+     "GeoName": "New Jersey",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "111.019"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "34000",
+     "GeoName": "New Jersey",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "111.188"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "34000",
+     "GeoName": "New Jersey",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "110.722"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "34000",
+     "GeoName": "New Jersey",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "109.157"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "34000",
+     "GeoName": "New Jersey",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "108.759"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "34000",
+     "GeoName": "New Jersey",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "108.941"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "34000",
+     "GeoName": "New Jersey",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "108.805"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "35000",
+     "GeoName": "New Mexico",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "95.471"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "35000",
+     "GeoName": "New Mexico",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "95.396"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "35000",
+     "GeoName": "New Mexico",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "94.460"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "35000",
+     "GeoName": "New Mexico",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "95.721"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "35000",
+     "GeoName": "New Mexico",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.656"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "35000",
+     "GeoName": "New Mexico",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.969"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "35000",
+     "GeoName": "New Mexico",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.805"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "35000",
+     "GeoName": "New Mexico",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.735"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "35000",
+     "GeoName": "New Mexico",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "90.929"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "35000",
+     "GeoName": "New Mexico",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "90.981"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "35000",
+     "GeoName": "New Mexico",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.212"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "36000",
+     "GeoName": "New York",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "108.853"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "36000",
+     "GeoName": "New York",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "109.583"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "36000",
+     "GeoName": "New York",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "110.086"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "36000",
+     "GeoName": "New York",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "109.988"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "36000",
+     "GeoName": "New York",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "109.507"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "36000",
+     "GeoName": "New York",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "109.426"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "36000",
+     "GeoName": "New York",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "110.130"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "36000",
+     "GeoName": "New York",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "109.564"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "36000",
+     "GeoName": "New York",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "107.557"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "36000",
+     "GeoName": "New York",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "107.842"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "36000",
+     "GeoName": "New York",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "107.921"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "37000",
+     "GeoName": "North Carolina",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.826"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "37000",
+     "GeoName": "North Carolina",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.588"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "37000",
+     "GeoName": "North Carolina",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.801"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "37000",
+     "GeoName": "North Carolina",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.025"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "37000",
+     "GeoName": "North Carolina",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.894"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "37000",
+     "GeoName": "North Carolina",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.866"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "37000",
+     "GeoName": "North Carolina",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.345"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "37000",
+     "GeoName": "North Carolina",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.734"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "37000",
+     "GeoName": "North Carolina",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "94.013"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "37000",
+     "GeoName": "North Carolina",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "94.399"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "37000",
+     "GeoName": "North Carolina",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "94.326"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "38000",
+     "GeoName": "North Dakota",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.450"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "38000",
+     "GeoName": "North Dakota",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.063"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "38000",
+     "GeoName": "North Dakota",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.588"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "38000",
+     "GeoName": "North Dakota",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "88.664"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "38000",
+     "GeoName": "North Dakota",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.168"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "38000",
+     "GeoName": "North Dakota",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.191"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "38000",
+     "GeoName": "North Dakota",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.816"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "38000",
+     "GeoName": "North Dakota",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "90.962"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "38000",
+     "GeoName": "North Dakota",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "88.703"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "38000",
+     "GeoName": "North Dakota",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "88.174"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "38000",
+     "GeoName": "North Dakota",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "88.959"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "39000",
+     "GeoName": "Ohio",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.019"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "39000",
+     "GeoName": "Ohio",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.218"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "39000",
+     "GeoName": "Ohio",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.333"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "39000",
+     "GeoName": "Ohio",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.931"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "39000",
+     "GeoName": "Ohio",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.985"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "39000",
+     "GeoName": "Ohio",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.289"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "39000",
+     "GeoName": "Ohio",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.935"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "39000",
+     "GeoName": "Ohio",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.223"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "39000",
+     "GeoName": "Ohio",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.506"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "39000",
+     "GeoName": "Ohio",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.903"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "39000",
+     "GeoName": "Ohio",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.774"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "40000",
+     "GeoName": "Oklahoma",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.825"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "40000",
+     "GeoName": "Oklahoma",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.369"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "40000",
+     "GeoName": "Oklahoma",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.514"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "40000",
+     "GeoName": "Oklahoma",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "90.881"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "40000",
+     "GeoName": "Oklahoma",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.646"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "40000",
+     "GeoName": "Oklahoma",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.332"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "40000",
+     "GeoName": "Oklahoma",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.630"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "40000",
+     "GeoName": "Oklahoma",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.883"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "40000",
+     "GeoName": "Oklahoma",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "88.807"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "40000",
+     "GeoName": "Oklahoma",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "88.680"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "40000",
+     "GeoName": "Oklahoma",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "87.843"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "41000",
+     "GeoName": "Oregon",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "99.745"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "41000",
+     "GeoName": "Oregon",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "101.119"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "41000",
+     "GeoName": "Oregon",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "99.593"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "41000",
+     "GeoName": "Oregon",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "101.474"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "41000",
+     "GeoName": "Oregon",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "104.657"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "41000",
+     "GeoName": "Oregon",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "103.811"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "41000",
+     "GeoName": "Oregon",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "103.243"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "41000",
+     "GeoName": "Oregon",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "103.150"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "41000",
+     "GeoName": "Oregon",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "106.612"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "41000",
+     "GeoName": "Oregon",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "104.812"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "41000",
+     "GeoName": "Oregon",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "103.361"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "42000",
+     "GeoName": "Pennsylvania",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.207"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "42000",
+     "GeoName": "Pennsylvania",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "98.147"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "42000",
+     "GeoName": "Pennsylvania",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.767"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "42000",
+     "GeoName": "Pennsylvania",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "99.102"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "42000",
+     "GeoName": "Pennsylvania",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "98.151"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "42000",
+     "GeoName": "Pennsylvania",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.979"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "42000",
+     "GeoName": "Pennsylvania",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.717"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "42000",
+     "GeoName": "Pennsylvania",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "96.145"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "42000",
+     "GeoName": "Pennsylvania",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "96.256"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "42000",
+     "GeoName": "Pennsylvania",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.400"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "42000",
+     "GeoName": "Pennsylvania",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.572"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "44000",
+     "GeoName": "Rhode Island",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "100.260"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "44000",
+     "GeoName": "Rhode Island",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "102.014"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "44000",
+     "GeoName": "Rhode Island",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "101.590"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "44000",
+     "GeoName": "Rhode Island",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "102.403"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "44000",
+     "GeoName": "Rhode Island",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "102.033"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "44000",
+     "GeoName": "Rhode Island",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "102.390"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "44000",
+     "GeoName": "Rhode Island",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "101.771"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "44000",
+     "GeoName": "Rhode Island",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "102.190"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "44000",
+     "GeoName": "Rhode Island",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "104.453"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "44000",
+     "GeoName": "Rhode Island",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "102.065"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "44000",
+     "GeoName": "Rhode Island",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "102.280"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "45000",
+     "GeoName": "South Carolina",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.231"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "45000",
+     "GeoName": "South Carolina",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.320"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "45000",
+     "GeoName": "South Carolina",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.636"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "45000",
+     "GeoName": "South Carolina",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.840"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "45000",
+     "GeoName": "South Carolina",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.244"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "45000",
+     "GeoName": "South Carolina",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.490"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "45000",
+     "GeoName": "South Carolina",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "90.873"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "45000",
+     "GeoName": "South Carolina",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.610"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "45000",
+     "GeoName": "South Carolina",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.342"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "45000",
+     "GeoName": "South Carolina",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.477"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "45000",
+     "GeoName": "South Carolina",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.749"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "46000",
+     "GeoName": "South Dakota",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.357"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "46000",
+     "GeoName": "South Dakota",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "87.799"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "46000",
+     "GeoName": "South Dakota",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "87.282"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "46000",
+     "GeoName": "South Dakota",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "87.223"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "46000",
+     "GeoName": "South Dakota",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.206"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "46000",
+     "GeoName": "South Dakota",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.818"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "46000",
+     "GeoName": "South Dakota",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.320"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "46000",
+     "GeoName": "South Dakota",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "90.105"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "46000",
+     "GeoName": "South Dakota",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "87.851"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "46000",
+     "GeoName": "South Dakota",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "88.149"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "46000",
+     "GeoName": "South Dakota",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "88.586"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "47000",
+     "GeoName": "Tennessee",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.785"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "47000",
+     "GeoName": "Tennessee",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.812"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "47000",
+     "GeoName": "Tennessee",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.810"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "47000",
+     "GeoName": "Tennessee",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.040"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "47000",
+     "GeoName": "Tennessee",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.649"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "47000",
+     "GeoName": "Tennessee",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.262"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "47000",
+     "GeoName": "Tennessee",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "90.502"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "47000",
+     "GeoName": "Tennessee",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "90.580"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "47000",
+     "GeoName": "Tennessee",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.800"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "47000",
+     "GeoName": "Tennessee",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.094"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "47000",
+     "GeoName": "Tennessee",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.870"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "48000",
+     "GeoName": "Texas",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "98.437"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "48000",
+     "GeoName": "Texas",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "98.291"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "48000",
+     "GeoName": "Texas",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "98.078"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "48000",
+     "GeoName": "Texas",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.435"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "48000",
+     "GeoName": "Texas",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.805"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "48000",
+     "GeoName": "Texas",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "98.507"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "48000",
+     "GeoName": "Texas",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "98.759"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "48000",
+     "GeoName": "Texas",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "98.402"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "48000",
+     "GeoName": "Texas",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.411"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "48000",
+     "GeoName": "Texas",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.140"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "48000",
+     "GeoName": "Texas",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.057"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "49000",
+     "GeoName": "Utah",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.937"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "49000",
+     "GeoName": "Utah",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.636"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "49000",
+     "GeoName": "Utah",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.091"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "49000",
+     "GeoName": "Utah",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "98.721"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "49000",
+     "GeoName": "Utah",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "96.018"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "49000",
+     "GeoName": "Utah",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.246"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "49000",
+     "GeoName": "Utah",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "95.259"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "49000",
+     "GeoName": "Utah",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "94.481"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "49000",
+     "GeoName": "Utah",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "94.590"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "49000",
+     "GeoName": "Utah",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "95.716"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "49000",
+     "GeoName": "Utah",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "98.864"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "50000",
+     "GeoName": "Vermont",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.937"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "50000",
+     "GeoName": "Vermont",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "100.029"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "50000",
+     "GeoName": "Vermont",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "98.224"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "50000",
+     "GeoName": "Vermont",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "100.337"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "50000",
+     "GeoName": "Vermont",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "100.204"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "50000",
+     "GeoName": "Vermont",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "99.604"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "50000",
+     "GeoName": "Vermont",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "102.132"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "50000",
+     "GeoName": "Vermont",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "98.694"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "50000",
+     "GeoName": "Vermont",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "101.033"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "50000",
+     "GeoName": "Vermont",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.142"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "50000",
+     "GeoName": "Vermont",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.958"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "51000",
+     "GeoName": "Virginia",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "103.454"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "51000",
+     "GeoName": "Virginia",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "103.570"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "51000",
+     "GeoName": "Virginia",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "102.777"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "51000",
+     "GeoName": "Virginia",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "101.222"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "51000",
+     "GeoName": "Virginia",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "101.957"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "51000",
+     "GeoName": "Virginia",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "100.053"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "51000",
+     "GeoName": "Virginia",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "101.003"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "51000",
+     "GeoName": "Virginia",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "102.300"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "51000",
+     "GeoName": "Virginia",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "102.026"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "51000",
+     "GeoName": "Virginia",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "101.331"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "51000",
+     "GeoName": "Virginia",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "101.104"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "53000",
+     "GeoName": "Washington",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "103.920"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "53000",
+     "GeoName": "Washington",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "104.400"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "53000",
+     "GeoName": "Washington",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "105.560"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "53000",
+     "GeoName": "Washington",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "107.035"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "53000",
+     "GeoName": "Washington",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "107.124"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "53000",
+     "GeoName": "Washington",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "107.971"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "53000",
+     "GeoName": "Washington",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "107.859"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "53000",
+     "GeoName": "Washington",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "108.804"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "53000",
+     "GeoName": "Washington",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "110.035"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "53000",
+     "GeoName": "Washington",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "108.370"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "53000",
+     "GeoName": "Washington",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "107.013"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "54000",
+     "GeoName": "West Virginia",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.864"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "54000",
+     "GeoName": "West Virginia",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "90.557"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "54000",
+     "GeoName": "West Virginia",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.805"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "54000",
+     "GeoName": "West Virginia",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "88.966"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "54000",
+     "GeoName": "West Virginia",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.411"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "54000",
+     "GeoName": "West Virginia",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "88.518"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "54000",
+     "GeoName": "West Virginia",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "87.334"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "54000",
+     "GeoName": "West Virginia",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "90.981"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "54000",
+     "GeoName": "West Virginia",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.157"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "54000",
+     "GeoName": "West Virginia",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.633"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "54000",
+     "GeoName": "West Virginia",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "89.497"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "55000",
+     "GeoName": "Wisconsin",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.799"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "55000",
+     "GeoName": "Wisconsin",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.287"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "55000",
+     "GeoName": "Wisconsin",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.173"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "55000",
+     "GeoName": "Wisconsin",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.531"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "55000",
+     "GeoName": "Wisconsin",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "94.028"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "55000",
+     "GeoName": "Wisconsin",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "94.476"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "55000",
+     "GeoName": "Wisconsin",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.666"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "55000",
+     "GeoName": "Wisconsin",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.309"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "55000",
+     "GeoName": "Wisconsin",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.401"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "55000",
+     "GeoName": "Wisconsin",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "93.220"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "55000",
+     "GeoName": "Wisconsin",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "94.095"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "56000",
+     "GeoName": "Wyoming",
+     "TimePeriod": "2014",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.404"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "56000",
+     "GeoName": "Wyoming",
+     "TimePeriod": "2015",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "96.941"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "56000",
+     "GeoName": "Wyoming",
+     "TimePeriod": "2016",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.747"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "56000",
+     "GeoName": "Wyoming",
+     "TimePeriod": "2017",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "97.146"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "56000",
+     "GeoName": "Wyoming",
+     "TimePeriod": "2018",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.372"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "56000",
+     "GeoName": "Wyoming",
+     "TimePeriod": "2019",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "94.107"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "56000",
+     "GeoName": "Wyoming",
+     "TimePeriod": "2020",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.836"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "56000",
+     "GeoName": "Wyoming",
+     "TimePeriod": "2021",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.440"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "56000",
+     "GeoName": "Wyoming",
+     "TimePeriod": "2022",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.767"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "56000",
+     "GeoName": "Wyoming",
+     "TimePeriod": "2023",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "91.551"
+    },
+    {
+     "Code": "SARPP-1",
+     "GeoFips": "56000",
+     "GeoName": "Wyoming",
+     "TimePeriod": "2024",
+     "CL_UNIT": "Index",
+     "UNIT_MULT": "0",
+     "DataValue": "92.691"
+    }
+   ],
+   "Notes": [
+    {
+     "NoteRef": " ",
+     "NoteText": "Last updated: February 19, 2026-- new statistics for 2024; revised statistics for 2008-2023."
+    }
+   ]
+  }
+ }
+}
