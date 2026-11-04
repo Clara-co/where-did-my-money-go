@@ -69,6 +69,22 @@ def _get_json(url: str, params: dict) -> dict:
         return json.load(resp)
 
 
+def _scrub(obj, secret: str | None):
+    """Remove an API key from a response before it is saved.
+
+    BEA echoes the request, including UserID, back in its response. The raw
+    files are meant to be committed, so any value equal to the key becomes
+    "REDACTED", and BEA's echoed Request block is dropped.
+    """
+    if isinstance(obj, dict):
+        return {k: _scrub(v, secret) for k, v in obj.items() if k != "Request"}
+    if isinstance(obj, list):
+        return [_scrub(v, secret) for v in obj]
+    if secret and isinstance(obj, str) and secret in obj:
+        return obj.replace(secret, "REDACTED")
+    return obj
+
+
 def fetch_cpi(out_dir: Path = RAW_DIR) -> list[Path]:
     out_dir.mkdir(parents=True, exist_ok=True)
     key = os.environ.get("BLS_API_KEY")
@@ -81,7 +97,7 @@ def fetch_cpi(out_dir: Path = RAW_DIR) -> list[Path]:
         if data.get("status") != "REQUEST_SUCCEEDED":
             raise RuntimeError(f"BLS request {start}-{end} failed: {data.get('message')}")
         path = out_dir / f"bls_cpi_{start}_{end}.json"
-        path.write_text(json.dumps(data, indent=1))
+        path.write_text(json.dumps(_scrub(data, key), indent=1))
         paths.append(path)
     return paths
 
@@ -105,7 +121,7 @@ def fetch_rpp(out_dir: Path = RAW_DIR) -> Path:
     if "Error" in data.get("BEAAPI", {}).get("Results", {}):
         raise RuntimeError(f"BEA request failed: {data['BEAAPI']['Results']['Error']}")
     path = out_dir / "bea_sarpp_states.json"
-    path.write_text(json.dumps(data, indent=1))
+    path.write_text(json.dumps(_scrub(data, key), indent=1))
     return path
 
 

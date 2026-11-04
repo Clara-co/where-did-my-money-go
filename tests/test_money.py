@@ -100,3 +100,13 @@ def test_full_run_writes_outputs(raw_dir, tmp_path):
     summary = json.loads((out / "summary.json").read_text())
     assert summary["incomplete_years"] == [2025]
     assert "Note: annual averages for 2025" in (out / "RESULTS.md").read_text()
+
+
+def test_scrub_removes_api_key():
+    from money.fetch import _scrub
+
+    resp = {"BEAAPI": {"Request": {"RequestParam": [{"ParameterName": "USERID", "ParameterValue": "SECRET123"}]},
+                       "Results": {"Data": [{"note": "key SECRET123 used"}]}}}
+    out = _scrub(resp, "SECRET123")
+    assert "SECRET123" not in json.dumps(out)
+    assert "Request" not in out["BEAAPI"]
