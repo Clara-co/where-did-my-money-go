@@ -1,0 +1,20 @@
+[project]
+name = "where-did-my-money-go"
+version = "1.0.0"
+description = "U.S. inflation by spending category (BLS CPI) and cost of living by state (BEA RPP)"
+requires-python = ">=3.10"
+dependencies = ["pandas>=2.0", "matplotlib>=3.7"]
+
+[project.optional-dependencies]
+dev = ["pytest>=7"]
+
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
